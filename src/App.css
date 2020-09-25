@@ -1,0 +1,20 @@
+.mainDivApp{
+  background-color: gold;
+  text-align: center;
+}
+.btnMD{
+  width: 200px;
+  height: 25px;
+  background: none;
+}
+.contentAll{
+  width: 50%;
+}
+.mainDivAll{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.contentImg{
+  width: 50%;
+}
